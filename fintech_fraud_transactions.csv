@@ -1,0 +1,26 @@
+Transaction_ID,User_ID,Amount,Merchant_Category,Location,Account_Age_Days,Flagged_Status
+TXN-1001,USR-101,34.5,Groceries,"New York, US",380,0
+TXN-1002,USR-101,52.1,Dining,"New York, US",380,0
+TXN-1003,USR-101,18.25,Coffee Shop,"New York, US",380,0
+TXN-1004,USR-101,3450,Luxury Goods,"Lagos, NG",380,1
+TXN-1005,USR-102,5,Digital Services,"Miami, US",2,0
+TXN-1006,USR-102,4950,Crypto Exchange,"Kyiv, UA",2,1
+TXN-1007,USR-103,85.2,Supermarket,"Austin, US",210,0
+TXN-1008,USR-103,42,Gas Station,"Austin, US",210,0
+TXN-1009,USR-103,112.5,Apparel,"Austin, US",210,0
+TXN-1010,USR-103,64.3,Pharmacy,"Austin, US",210,0
+TXN-1011,USR-104,45,Streaming,"Seattle, US",540,0
+TXN-1012,USR-104,62.8,Dining,"Seattle, US",540,0
+TXN-1013,USR-104,8200,Wire Transfer,"Tbilisi, GE",540,1
+TXN-1014,USR-105,9.5,Coffee Shop,"Boston, US",95,0
+TXN-1015,USR-105,14.2,Fast Food,"Boston, US",95,0
+TXN-1016,USR-105,22,Bookstore,"Boston, US",95,0
+TXN-1017,USR-105,12.8,Transit,"Boston, US",95,0
+TXN-1018,USR-106,75,Groceries,"Chicago, US",310,0
+TXN-1019,USR-106,48.9,Utilities,"Chicago, US",310,0
+TXN-1020,USR-106,1890,Electronics,"Shenzhen, CN",310,1
+TXN-1021,USR-107,1250,Airlines,"London, UK",640,0
+TXN-1022,USR-107,890,Hotels,"London, UK",640,0
+TXN-1023,USR-107,340,Dining,"London, UK",640,0
+TXN-1024,USR-108,25,Convenience,"Denver, US",720,0
+TXN-1025,USR-108,3100,ATM Withdrawal,"Bogota, CO",720,1
